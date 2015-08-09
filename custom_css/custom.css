@@ -1,6 +1,7 @@
 
 html { 
-  background: url(../img/full/DSC01132.jpg) no-repeat center center fixed; 
+  background-color: black;
+  background: url(../img/large/DSC01132.JPG) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;

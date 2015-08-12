@@ -1,0 +1,27 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://vogelstpartystaging.github.io
+title: Vogel Street Party
+email: your-email@domain.com
+author: Your Name
+description: Vogel Street Party webste
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: twitter
+    url: https://twitter.com/vogelstparty
+  - title: facebook
+    url: https://facebook.com/vogelstreetparty

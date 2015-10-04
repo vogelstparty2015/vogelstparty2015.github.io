@@ -4,7 +4,19 @@
 
 	<body>
 		{% include hero.html %}
-		{% include post_page.html %}
+
+	    <div class="container content-section">
+	        <div class="row">
+	            <div class="col-md-3"></div>
+	            <div class="col-md-6">
+	                <div class="post-content-body text-center">
+	                    {{ page.content }}
+	                </div>
+	            </div>
+	            <div class="col-md-3"></div>
+	        </div>
+	    </div>
+
 		{% include sponsors-1.html %}
 		{% include sponsors-2.html %}
 		{% include sponsors-3.html %}

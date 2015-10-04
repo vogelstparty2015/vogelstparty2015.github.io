@@ -82,6 +82,7 @@ h6 {
 
 .sponsors img {
     max-height: 50px;
+    max-width: 100%;
 }
 
 .sponsors.sponsors-1 img {

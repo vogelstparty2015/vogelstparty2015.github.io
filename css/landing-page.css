@@ -92,6 +92,10 @@ h6 {
     display: inline-block;
 }
 
+.sponsors section.sponsors {
+    margin-top: 20px;
+}
+
 .sponsors-2 {
     padding: 18px;
 }

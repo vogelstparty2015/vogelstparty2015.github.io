@@ -80,6 +80,10 @@ h6 {
     }
 }
 
+#sponsors-1 img {
+    max-height: 80px;
+}
+
 .network-name {
     text-transform: uppercase;
     font-size: 14px;

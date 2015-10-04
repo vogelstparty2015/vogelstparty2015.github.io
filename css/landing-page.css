@@ -27,7 +27,17 @@ h6 {
 }
 
 .intro-header {
+    padding-top: 50px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url(../img/vogelstparty-2015-rua-litlight.png) no-repeat center center;
     background-color: white; 
+    background-size: contain;
+}
+
+.intro-message {
+    position: relative;
+    margin-top: 80px;
 }
 
 .intro-message > h1 {

@@ -80,8 +80,12 @@ h6 {
     }
 }
 
-#sponsors-1 img {
+.sponsors.sponsors-1 img {
     max-height: 80px;
+}
+
+.sponsors .column {
+    display: inline-block;
 }
 
 .network-name {

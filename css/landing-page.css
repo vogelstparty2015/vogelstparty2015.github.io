@@ -80,6 +80,10 @@ h6 {
     }
 }
 
+.sponsors img {
+    max-height: 50px;
+}
+
 .sponsors.sponsors-1 img {
     max-height: 80px;
 }

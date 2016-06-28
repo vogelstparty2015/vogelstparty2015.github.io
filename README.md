@@ -1,3 +1,5 @@
+My name is Rewa Pene and I am looking at your website to see what I can do for 2016!
+
 # Landing Page Jekyll theme
 
 Jekyll theme based on [landing-page bootstrap theme ](http://startbootstrap.com/templates/landing-page/)
